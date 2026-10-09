@@ -1,0 +1,148 @@
+{
+  "request": {
+    "origin": "Chennai",
+    "destination": "Singapore",
+    "start": "2026-10-04",
+    "end": "2026-10-07",
+    "travellers": 1,
+    "budget": 50000.0,
+    "currency": "INR",
+    "nationality": "Indian",
+    "interests": "Culture, sightseeing and local food"
+  },
+  "demo": true,
+  "revision": 1,
+  "strategy": "economy",
+  "planner_note": "Plan using economy accommodation and activity allowances.",
+  "evidence": [
+    {
+      "id": "KB-11",
+      "title": "Singapore visa guidance \u2014 Indian ordinary passports",
+      "kind": "visa",
+      "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/india",
+      "text": "Official ICA page reviewed 2026-09-27 (page shows updated 2024-03-02). For Indian-issued travel documents, Singapore requires an entry visa; diplomatic, official and service passports are exceptions. The page lists a signed Form 14A, a recent photograph, and a passport biodata copy with at least six months of validity at entry. Applications can go through an authorised agent or overseas mission, or an eligible Singapore local contact/strategic partner. This summary is for Indian passport holders only; other nationalities need a separate official check. Recheck the linked ICA page and embassy before travelling; this is not a determination of individual admission or visa approval.",
+      "destination": "Singapore",
+      "checked_on": "2026-09-27",
+      "nationality_scope": "Indian",
+      "score": 0.201
+    },
+    {
+      "id": "KB-01",
+      "title": "Singapore destination starter guide",
+      "kind": "destination",
+      "places": [
+        "Marina Bay waterfront",
+        "Gardens by the Bay outdoor areas",
+        "Chinatown",
+        "Little India",
+        "Singapore Botanic Gardens",
+        "Civic District"
+      ],
+      "url": "https://www.visitsingapore.com/",
+      "text": "Singapore starter itinerary ideas: Marina Bay waterfront, Gardens by the Bay outdoor areas, Chinatown, Little India, Singapore Botanic Gardens, Civic District. Group nearby activities, allow airport transfer time and rest breaks. Verify opening hours and entry fees. This is an author-written planning note, not an extract or verified quotation from the linked tourism site.",
+      "destination": "Singapore",
+      "score": 0.186
+    },
+    {
+      "id": "KB-21",
+      "title": "Travel insurance and cost checklist",
+      "kind": "insurance",
+      "url": "https://www.mea.gov.in/",
+      "text": "Compare travel insurance terms for medical care, exclusions and cancellation cover. Confirm baggage costs, visa fees, transfers, ticket prices and cancellation terms separately. A contingency allowance is not a verified quote. This is general project guidance, not insurer advice.",
+      "destination": null,
+      "score": 0.165
+    }
+  ],
+  "web": {
+    "status": "demo",
+    "reason": "Demo mode does not search the web."
+  },
+  "itinerary": "### Day 1\nMorning: Marina Bay waterfront. Afternoon: Gardens by the Bay outdoor areas. Evening: local food and rest. [KB-01]\nKeep an indoor alternative. Confirm opening hours and ticket costs.\n\n### Day 2\nMorning: Chinatown. Afternoon: Little India. Evening: local food and rest. [KB-01]\nKeep an indoor alternative. Confirm opening hours and ticket costs.\n\n### Day 3\nMorning: Singapore Botanic Gardens. Afternoon: Civic District. Evening: local food and rest. [KB-01]\nKeep an indoor alternative. Confirm opening hours and ticket costs.\n\n### Day 4\nMorning: Marina Bay waterfront. Afternoon: Gardens by the Bay outdoor areas. Evening: local food and rest. [KB-01]\nKeep an indoor alternative. Confirm opening hours and ticket costs.\n\nEconomy revision: choose free public areas; paid attractions are optional and must fit the activity allowance.",
+  "weather": {
+    "status": "demo",
+    "note": "No real forecast requested. Keep an indoor alternative each day."
+  },
+  "weather_note": "Keep indoor alternatives; no real weather was checked in demo mode.",
+  "flight": {
+    "origin": "Chennai",
+    "destination": "Singapore",
+    "airline": "Demo Air 1",
+    "return_fare_inr": 24000,
+    "mock": true
+  },
+  "hotel": {
+    "city": "Singapore",
+    "name": "Singapore Demo Economy Stay",
+    "tier": "economy",
+    "nightly_inr": 3500,
+    "stars": 3,
+    "mock": true
+  },
+  "costs": {
+    "items_inr": {
+      "Return flights": 24000.0,
+      "Hotel (2 people per room)": 10500.0,
+      "Food allowance": 3400.0,
+      "Local transport allowance": 1800.0,
+      "Activities allowance": 2400.0,
+      "Contingency (10%)": 4210.0
+    },
+    "total_inr": 46310.0
+  },
+  "conversion": {
+    "amount": 46310.0,
+    "rate": 1.0,
+    "currency": "INR",
+    "as_of": "2026-09-27",
+    "source": "Identity conversion"
+  },
+  "over_budget": false,
+  "summary": "## Budget result\nWithin estimated budget; remaining 3,690.00 INR.\n\n### Day 1\nMorning: Marina Bay waterfront. Afternoon: Gardens by the Bay outdoor areas. Evening: local food and rest. [KB-01]\nKeep an indoor alternative. Confirm opening hours and ticket costs.\n\n### Day 2\nMorning: Chinatown. Afternoon: Little India. Evening: local food and rest. [KB-01]\nKeep an indoor alternative. Confirm opening hours and ticket costs.\n\n### Day 3\nMorning: Singapore Botanic Gardens. Afternoon: Civic District. Evening: local food and rest. [KB-01]\nKeep an indoor alternative. Confirm opening hours and ticket costs.\n\n### Day 4\nMorning: Marina Bay waterfront. Afternoon: Gardens by the Bay outdoor areas. Evening: local food and rest. [KB-01]\nKeep an indoor alternative. Confirm opening hours and ticket costs.\n\nEconomy revision: choose free public areas; paid attractions are optional and must fit the activity allowance.\n\n## Weather adjustments\nKeep indoor alternatives; no real weather was checked in demo mode.\n\n## Visa notes and verification\nOfficial ICA page reviewed 2026-09-27 (page shows updated 2024-03-02). For Indian-issued travel documents, Singapore requires an entry visa; diplomatic, official and service passports are exceptions. The page lists a signed Form 14A, a recent photograph, and a passport biodata copy with at least six months of validity at entry. Applications can go through an authorised agent or overseas mission, or an eligible Singapore local contact/strategic partner. This summary is for Indian passport holders only; other nationalities need a separate official check. Recheck the linked ICA page and embassy before travelling; this is not a determination of individual admission or visa approval. [KB-11]\n\n## Before travelling\n\nFlights and hotels are synthetic classroom data, not live quotes. All costs are indicative. Visa fees, insurance and baggage charges are not individually priced; confirm these and increase the allowance if needed. Nothing has been booked. Visa eligibility has not been determined: check official immigration or embassy guidance for your passport and dates.",
+  "trace": [
+    {
+      "agent": "Planner",
+      "revision": 0,
+      "action": "Selected standard strategy"
+    },
+    {
+      "agent": "Itinerary / ReAct",
+      "revision": 0,
+      "action": "Local RAG retrieved; deterministic demo itinerary generated (no LLM)"
+    },
+    {
+      "agent": "Weather",
+      "revision": 0,
+      "action": "Forecast status: demo"
+    },
+    {
+      "agent": "Budget",
+      "revision": 0,
+      "action": "MCP tools + cost calculator: 63470.0 INR"
+    },
+    {
+      "agent": "Planner",
+      "revision": 1,
+      "action": "Selected economy strategy"
+    },
+    {
+      "agent": "Itinerary / ReAct",
+      "revision": 1,
+      "action": "Local RAG retrieved; deterministic demo itinerary generated (no LLM)"
+    },
+    {
+      "agent": "Weather",
+      "revision": 1,
+      "action": "Forecast status: demo"
+    },
+    {
+      "agent": "Budget",
+      "revision": 1,
+      "action": "MCP tools + cost calculator: 46310.0 INR"
+    },
+    {
+      "agent": "Booking Summary",
+      "revision": 1,
+      "action": "Final itinerary and budget status produced"
+    }
+  ]
+}

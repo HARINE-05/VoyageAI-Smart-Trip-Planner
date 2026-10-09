@@ -1,0 +1,326 @@
+{
+  "flights": [
+    {
+      "origin": "Chennai",
+      "destination": "Singapore",
+      "airline": "Demo Air 1",
+      "return_fare_inr": 24000,
+      "mock": true
+    },
+    {
+      "origin": "Chennai",
+      "destination": "Singapore",
+      "airline": "Demo Air 2",
+      "return_fare_inr": 28000,
+      "mock": true
+    },
+    {
+      "origin": "Bengaluru",
+      "destination": "Singapore",
+      "airline": "Demo Air 1",
+      "return_fare_inr": 24000,
+      "mock": true
+    },
+    {
+      "origin": "Bengaluru",
+      "destination": "Singapore",
+      "airline": "Demo Air 2",
+      "return_fare_inr": 28000,
+      "mock": true
+    },
+    {
+      "origin": "Mumbai",
+      "destination": "Singapore",
+      "airline": "Demo Air 1",
+      "return_fare_inr": 24000,
+      "mock": true
+    },
+    {
+      "origin": "Mumbai",
+      "destination": "Singapore",
+      "airline": "Demo Air 2",
+      "return_fare_inr": 28000,
+      "mock": true
+    },
+    {
+      "origin": "Delhi",
+      "destination": "Singapore",
+      "airline": "Demo Air 1",
+      "return_fare_inr": 24000,
+      "mock": true
+    },
+    {
+      "origin": "Delhi",
+      "destination": "Singapore",
+      "airline": "Demo Air 2",
+      "return_fare_inr": 28000,
+      "mock": true
+    },
+    {
+      "origin": "Chennai",
+      "destination": "Bangkok",
+      "airline": "Demo Air 1",
+      "return_fare_inr": 18000,
+      "mock": true
+    },
+    {
+      "origin": "Chennai",
+      "destination": "Bangkok",
+      "airline": "Demo Air 2",
+      "return_fare_inr": 22000,
+      "mock": true
+    },
+    {
+      "origin": "Bengaluru",
+      "destination": "Bangkok",
+      "airline": "Demo Air 1",
+      "return_fare_inr": 18000,
+      "mock": true
+    },
+    {
+      "origin": "Bengaluru",
+      "destination": "Bangkok",
+      "airline": "Demo Air 2",
+      "return_fare_inr": 22000,
+      "mock": true
+    },
+    {
+      "origin": "Mumbai",
+      "destination": "Bangkok",
+      "airline": "Demo Air 1",
+      "return_fare_inr": 18000,
+      "mock": true
+    },
+    {
+      "origin": "Mumbai",
+      "destination": "Bangkok",
+      "airline": "Demo Air 2",
+      "return_fare_inr": 22000,
+      "mock": true
+    },
+    {
+      "origin": "Delhi",
+      "destination": "Bangkok",
+      "airline": "Demo Air 1",
+      "return_fare_inr": 18000,
+      "mock": true
+    },
+    {
+      "origin": "Delhi",
+      "destination": "Bangkok",
+      "airline": "Demo Air 2",
+      "return_fare_inr": 22000,
+      "mock": true
+    },
+    {
+      "origin": "Chennai",
+      "destination": "Dubai",
+      "airline": "Demo Air 1",
+      "return_fare_inr": 26000,
+      "mock": true
+    },
+    {
+      "origin": "Chennai",
+      "destination": "Dubai",
+      "airline": "Demo Air 2",
+      "return_fare_inr": 30000,
+      "mock": true
+    },
+    {
+      "origin": "Bengaluru",
+      "destination": "Dubai",
+      "airline": "Demo Air 1",
+      "return_fare_inr": 26000,
+      "mock": true
+    },
+    {
+      "origin": "Bengaluru",
+      "destination": "Dubai",
+      "airline": "Demo Air 2",
+      "return_fare_inr": 30000,
+      "mock": true
+    },
+    {
+      "origin": "Mumbai",
+      "destination": "Dubai",
+      "airline": "Demo Air 1",
+      "return_fare_inr": 26000,
+      "mock": true
+    },
+    {
+      "origin": "Mumbai",
+      "destination": "Dubai",
+      "airline": "Demo Air 2",
+      "return_fare_inr": 30000,
+      "mock": true
+    },
+    {
+      "origin": "Delhi",
+      "destination": "Dubai",
+      "airline": "Demo Air 1",
+      "return_fare_inr": 26000,
+      "mock": true
+    },
+    {
+      "origin": "Delhi",
+      "destination": "Dubai",
+      "airline": "Demo Air 2",
+      "return_fare_inr": 30000,
+      "mock": true
+    },
+    {
+      "origin": "Chennai",
+      "destination": "Goa",
+      "airline": "Demo Air 1",
+      "return_fare_inr": 9000,
+      "mock": true
+    },
+    {
+      "origin": "Chennai",
+      "destination": "Goa",
+      "airline": "Demo Air 2",
+      "return_fare_inr": 13000,
+      "mock": true
+    },
+    {
+      "origin": "Bengaluru",
+      "destination": "Goa",
+      "airline": "Demo Air 1",
+      "return_fare_inr": 9000,
+      "mock": true
+    },
+    {
+      "origin": "Bengaluru",
+      "destination": "Goa",
+      "airline": "Demo Air 2",
+      "return_fare_inr": 13000,
+      "mock": true
+    },
+    {
+      "origin": "Mumbai",
+      "destination": "Goa",
+      "airline": "Demo Air 1",
+      "return_fare_inr": 9000,
+      "mock": true
+    },
+    {
+      "origin": "Mumbai",
+      "destination": "Goa",
+      "airline": "Demo Air 2",
+      "return_fare_inr": 13000,
+      "mock": true
+    },
+    {
+      "origin": "Delhi",
+      "destination": "Goa",
+      "airline": "Demo Air 1",
+      "return_fare_inr": 9000,
+      "mock": true
+    },
+    {
+      "origin": "Delhi",
+      "destination": "Goa",
+      "airline": "Demo Air 2",
+      "return_fare_inr": 13000,
+      "mock": true
+    }
+  ],
+  "hotels": [
+    {
+      "city": "Singapore",
+      "name": "Singapore Demo Budget Stay",
+      "tier": "budget",
+      "nightly_inr": 2000,
+      "stars": 2,
+      "mock": true
+    },
+    {
+      "city": "Singapore",
+      "name": "Singapore Demo Economy Stay",
+      "tier": "economy",
+      "nightly_inr": 3500,
+      "stars": 3,
+      "mock": true
+    },
+    {
+      "city": "Singapore",
+      "name": "Singapore Demo Standard Stay",
+      "tier": "standard",
+      "nightly_inr": 6500,
+      "stars": 4,
+      "mock": true
+    },
+    {
+      "city": "Bangkok",
+      "name": "Bangkok Demo Budget Stay",
+      "tier": "budget",
+      "nightly_inr": 2000,
+      "stars": 2,
+      "mock": true
+    },
+    {
+      "city": "Bangkok",
+      "name": "Bangkok Demo Economy Stay",
+      "tier": "economy",
+      "nightly_inr": 3500,
+      "stars": 3,
+      "mock": true
+    },
+    {
+      "city": "Bangkok",
+      "name": "Bangkok Demo Standard Stay",
+      "tier": "standard",
+      "nightly_inr": 6500,
+      "stars": 4,
+      "mock": true
+    },
+    {
+      "city": "Dubai",
+      "name": "Dubai Demo Budget Stay",
+      "tier": "budget",
+      "nightly_inr": 2000,
+      "stars": 2,
+      "mock": true
+    },
+    {
+      "city": "Dubai",
+      "name": "Dubai Demo Economy Stay",
+      "tier": "economy",
+      "nightly_inr": 3500,
+      "stars": 3,
+      "mock": true
+    },
+    {
+      "city": "Dubai",
+      "name": "Dubai Demo Standard Stay",
+      "tier": "standard",
+      "nightly_inr": 6500,
+      "stars": 4,
+      "mock": true
+    },
+    {
+      "city": "Goa",
+      "name": "Goa Demo Budget Stay",
+      "tier": "budget",
+      "nightly_inr": 2000,
+      "stars": 2,
+      "mock": true
+    },
+    {
+      "city": "Goa",
+      "name": "Goa Demo Economy Stay",
+      "tier": "economy",
+      "nightly_inr": 3500,
+      "stars": 3,
+      "mock": true
+    },
+    {
+      "city": "Goa",
+      "name": "Goa Demo Standard Stay",
+      "tier": "standard",
+      "nightly_inr": 6500,
+      "stars": 4,
+      "mock": true
+    }
+  ]
+}

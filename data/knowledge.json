@@ -1,0 +1,108 @@
+[
+  {
+    "id": "KB-01",
+    "title": "Singapore destination starter guide",
+    "kind": "destination",
+    "places": [
+      "Marina Bay waterfront",
+      "Gardens by the Bay outdoor areas",
+      "Chinatown",
+      "Little India",
+      "Singapore Botanic Gardens",
+      "Civic District"
+    ],
+    "url": "https://www.visitsingapore.com/",
+    "text": "Singapore starter itinerary ideas: Marina Bay waterfront, Gardens by the Bay outdoor areas, Chinatown, Little India, Singapore Botanic Gardens, Civic District. Group nearby activities, allow airport transfer time and rest breaks. Verify opening hours and entry fees. This is an author-written planning note, not an extract or verified quotation from the linked tourism site.",
+    "destination": "Singapore"
+  },
+  {
+    "id": "KB-11",
+    "title": "Singapore visa guidance \u2014 Indian ordinary passports",
+    "kind": "visa",
+    "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements/visa-detail-page/india",
+    "text": "Official ICA page reviewed 2026-09-27 (page shows updated 2024-03-02). For Indian-issued travel documents, Singapore requires an entry visa; diplomatic, official and service passports are exceptions. The page lists a signed Form 14A, a recent photograph, and a passport biodata copy with at least six months of validity at entry. Applications can go through an authorised agent or overseas mission, or an eligible Singapore local contact/strategic partner. This summary is for Indian passport holders only; other nationalities need a separate official check. Recheck the linked ICA page and embassy before travelling; this is not a determination of individual admission or visa approval.",
+    "destination": "Singapore",
+    "checked_on": "2026-09-27",
+    "nationality_scope": "Indian"
+  },
+  {
+    "id": "KB-02",
+    "title": "Bangkok destination starter guide",
+    "kind": "destination",
+    "places": [
+      "Lumphini Park",
+      "Chinatown",
+      "riverside neighbourhoods",
+      "Old Town",
+      "local markets",
+      "cultural museums"
+    ],
+    "url": "https://www.tourismthailand.org/",
+    "text": "Bangkok starter itinerary ideas: Lumphini Park, Chinatown, riverside neighbourhoods, Old Town, local markets, cultural museums. Group nearby activities, allow airport transfer time and rest breaks. Verify opening hours and entry fees. This is an author-written planning note, not an extract or verified quotation from the linked tourism site.",
+    "destination": "Bangkok"
+  },
+  {
+    "id": "KB-12",
+    "title": "Bangkok visa verification checklist",
+    "kind": "visa",
+    "url": "https://www.thaievisa.go.th/",
+    "text": "For Bangkok, ask for passport nationality, travel purpose and dates. Check official immigration guidance and the relevant embassy before departure. Do not infer visa exemption or approval. For Indian citizens travelling domestically to Goa, international-entry checks do not apply; check carrier identity requirements. This starter note contains no current visa policy determination.",
+    "destination": "Bangkok"
+  },
+  {
+    "id": "KB-03",
+    "title": "Dubai destination starter guide",
+    "kind": "destination",
+    "places": [
+      "Dubai Creek",
+      "Al Fahidi neighbourhood",
+      "Jumeirah public areas",
+      "Dubai Marina promenade",
+      "local markets",
+      "museum district"
+    ],
+    "url": "https://www.visitdubai.com/",
+    "text": "Dubai starter itinerary ideas: Dubai Creek, Al Fahidi neighbourhood, Jumeirah public areas, Dubai Marina promenade, local markets, museum district. Group nearby activities, allow airport transfer time and rest breaks. Verify opening hours and entry fees. This is an author-written planning note, not an extract or verified quotation from the linked tourism site.",
+    "destination": "Dubai"
+  },
+  {
+    "id": "KB-13",
+    "title": "Dubai visa verification checklist",
+    "kind": "visa",
+    "url": "https://u.ae/",
+    "text": "For Dubai, ask for passport nationality, travel purpose and dates. Check official immigration guidance and the relevant embassy before departure. Do not infer visa exemption or approval. For Indian citizens travelling domestically to Goa, international-entry checks do not apply; check carrier identity requirements. This starter note contains no current visa policy determination.",
+    "destination": "Dubai"
+  },
+  {
+    "id": "KB-04",
+    "title": "Goa destination starter guide",
+    "kind": "destination",
+    "places": [
+      "Panaji heritage streets",
+      "Miramar public beach",
+      "Fontainhas",
+      "Old Goa heritage area",
+      "local markets",
+      "a relaxed coastal walk"
+    ],
+    "url": "https://goa-tourism.com/",
+    "text": "Goa starter itinerary ideas: Panaji heritage streets, Miramar public beach, Fontainhas, Old Goa heritage area, local markets, a relaxed coastal walk. Group nearby activities, allow airport transfer time and rest breaks. Verify opening hours and entry fees. This is an author-written planning note, not an extract or verified quotation from the linked tourism site.",
+    "destination": "Goa"
+  },
+  {
+    "id": "KB-14",
+    "title": "Goa visa verification checklist",
+    "kind": "visa",
+    "url": "https://indianvisaonline.gov.in/",
+    "text": "For Goa, ask for passport nationality, travel purpose and dates. Check official immigration guidance and the relevant embassy before departure. Do not infer visa exemption or approval. For Indian citizens travelling domestically to Goa, international-entry checks do not apply; check carrier identity requirements. This starter note contains no current visa policy determination.",
+    "destination": "Goa"
+  },
+  {
+    "id": "KB-21",
+    "title": "Travel insurance and cost checklist",
+    "kind": "insurance",
+    "url": "https://www.mea.gov.in/",
+    "text": "Compare travel insurance terms for medical care, exclusions and cancellation cover. Confirm baggage costs, visa fees, transfers, ticket prices and cancellation terms separately. A contingency allowance is not a verified quote. This is general project guidance, not insurer advice.",
+    "destination": null
+  }
+]

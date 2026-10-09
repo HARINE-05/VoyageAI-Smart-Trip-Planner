@@ -1,0 +1,37 @@
+SMART TRIP PLANNER — VERSION 1.2 FIX
+
+1. Close the old Streamlit terminal.
+2. Copy the CONTENTS of this smart-trip-planner folder into your EXISTING
+   smart-trip-planner folder. Choose Replace for duplicate files.
+   This package contains NO .env or .venv, so your saved keys and installed
+   environment remain in the existing folder. Do not delete that old folder.
+3. Open your existing .env file and change only this line:
+   GEMINI_MODEL=gemini-3.8-flash
+   Save it. Keep your two API keys unchanged.
+4. Double-click START_WINDOWS.bat in the existing folder.
+5. Confirm the page shows Version 1.2 near the title.
+6. Click Check API connections in the sidebar.
+7. If Gemini and Tavily show OK, select Live AI and create your plan.
+
+If either service fails, the page now shows its actual error with credentials
+redacted. Share that error text for troubleshooting. Do not share .env.
+A quota, rejected key, blocked network or unavailable account cannot be fixed
+by changing application code alone; the connection check identifies these.
+
+Changes:
+- Account model discovery (no assumption that a suggested model ID is available).
+- Invalid or blank model setting falls back to a model returned by your API key.
+- Secret-redacted error details instead of the old generic red message.
+- Independent authenticated checks for Gemini tool calling and Tavily search.
+- .env reloaded on Streamlit rerun; warning for accidental .env.txt filenames.
+
+The model list confirms API listing, not successful generation or free quota.
+The connection check performs one small model request and one Tavily search.
+No silent switch to demo data/AI occurs when Live AI fails.
+
+VERSION 1.2 OVERLOAD RECOVERY
+The app retries each failed Gemini 503 request at most twice, with increasing
+delays (about 3 then 8 seconds). It still stops if Google remains unavailable.
+To use another model: click Load model choices in the sidebar, select another
+Flash text model listed for your key, then Check API connections. Availability
+and pricing depend on your account. No automatic switch to demo is performed.

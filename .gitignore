@@ -1,0 +1,20 @@
+# Secrets and local environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+# Editor and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Local exports
+trip_result.json
+trip_result.md
